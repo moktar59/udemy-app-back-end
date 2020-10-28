@@ -60,3 +60,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # udemy-app-back-end
+This is a Laravel 8 rest api back end for practicing Udemy Laravel Vue FullStack development
